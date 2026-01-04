@@ -29,6 +29,19 @@ a:hover {
 
 .container-fluid { margin-left: 0; }
 
+.my-button {
+	padding: 12px 50px;
+	border-radius:8px;
+	background: #00669a;
+	color: white;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: 3.2rem;
+	border: 0px solid #3cbeff;
+	box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+	width: auto;
+	align-items: center;
+}
+
 .btn-primary {
 	padding: 12px 50px;
     border-radius: 0;
