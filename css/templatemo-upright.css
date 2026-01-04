@@ -36,10 +36,7 @@ a:hover {
 	color: white;
 	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 	font-size: 3.2rem;
-	border: 0px solid #3cbeff;
 	box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
-	width: auto;
-	align-items: center;
 }
 
 .btn-primary {
